@@ -9,4 +9,4 @@ The Covid-19 pandemic represented an extraordinary event in the annals of human 
 ## Crimes against life
 
 
-<img src="Image/serie_temporal_mdip_taxa_estado.jpg" alt="Graph" width="600" height="350">
+<img src="images/cvli_github.jpg" alt="Graph" width="600" height="350">
