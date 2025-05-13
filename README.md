@@ -12,6 +12,7 @@ Additionally, the Brazilian versions of these programs include the alignment of 
 
 Compstat-like programs are currently implemented in 11 Brazilian states, as shown in the figure below.
 
+<img src="images/brazilian_compstat.jpeg" alt="Graph" width="600" height="350">
 
 
 # The Pandemic's Effect
